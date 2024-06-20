@@ -1,0 +1,17 @@
+Fetch JSON data from a public API using the requests library in Python.
+NOTE: use this API for this question: https://jsonplaceholder.typicode.com/todos/1
+
+Send data to an API using the POST method with the requests library in Python.
+NOTE: use this API for this question: https://jsonplaceholder.typicode.com/posts
+
+Send a GET request with query parameters using the requests library in Python.
+NOTE: use this API for this question: https://jsonplaceholder.typicode.com/comments
+
+Use HTTP Basic Authentication with the requests library in Python.
+NOTE: use this API for this question: https://httpbin.org/basic-auth/user/passwd
+
+Upload a file using the requests library in Python.
+NOTE: use this API for this question: https://httpbin.org/post
+
+Set a timeout for a request using the requests library in Python.
+NOTE: use this API for this question: https://jsonplaceholder.typicode.com/todos/1
